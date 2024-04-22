@@ -1,5 +1,7 @@
-# 🙋‍♀️ Hi there! 
-- 👩‍💻 I’m **@itzulg**. I’m Communications and Electronics Engineer.
+
+https://github.com/itzulg/itzulg/assets/167660165/d371d006-90ac-45c5-8088-82499e870a1a
+
+- 👩‍💻 I’m Communications and Electronics Engineer.
 - 🌟 I have a growing interest in backend and cloud technologies.
 - 🌱 I’m currently learning about Cybersecurity and DevOps.
 - ✨ I like solving problems, painting, listening to music and programming
